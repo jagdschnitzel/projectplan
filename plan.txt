@@ -5,3 +5,4 @@ watch a video
 requirement analysis
 do use case analysis
 implemetation
+do testing
