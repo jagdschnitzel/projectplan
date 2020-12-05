@@ -2,5 +2,6 @@ Research
 read a block
 conduct the interview
 watch a video 
-requirement analysis 
+requirement analysis
+do use case analysis
 implemetation
