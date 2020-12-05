@@ -4,3 +4,4 @@ conduct the interview
 watch a video 
 requirement analysis 
 implemetation
+do testing
