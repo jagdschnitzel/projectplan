@@ -1,5 +1,6 @@
 Research 
 read a block
+conduct the interview
 watch a video 
 requirement analysis 
 implemetation
