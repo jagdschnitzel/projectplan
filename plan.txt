@@ -6,4 +6,5 @@ requirement analysis
 do use case analysis
 implemetation
 do testing
+deploy plan
 sell everything
